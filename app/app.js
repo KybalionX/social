@@ -1,6 +1,5 @@
 const express = require('express');
 const app = express();
-const colors = require('colors');
 
 app.set('port', process.env.PORT || 3000);
 
